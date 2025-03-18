@@ -1,0 +1,10 @@
+2025-03-18 19:51:36,709 - INFO - Processing each element of the list 1
+2025-03-18 19:51:36,711 - INFO - Processing each element of the list hello
+2025-03-18 19:51:36,711 - INFO - Processing each element of the list [2, 'world']
+2025-03-18 19:51:36,711 - INFO - Processing sublist element 2
+2025-03-18 19:51:36,711 - INFO - Processing sublist element world
+2025-03-18 19:51:36,712 - INFO - Processing each element of the list 4
+2025-03-18 19:51:36,712 - INFO - Processing each element of the list [3, 'python']
+2025-03-18 19:51:36,712 - INFO - Processing sublist element 3
+2025-03-18 19:51:36,712 - INFO - Processing sublist element python
+2025-03-18 19:51:36,712 - INFO - The result is: [1, 2, 4, 3], ['hello', 'world', 'python']

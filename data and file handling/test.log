@@ -1,0 +1,4 @@
+INFO:root:This is my narmal information about the software
+WARNING:root:There can be some empty list here
+ERROR:root:Some error has happen
+CRITICAL:root:The software has stopped running
