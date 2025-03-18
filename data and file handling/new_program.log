@@ -8,3 +8,229 @@
 2025-03-18 19:51:36,712 - INFO - Processing sublist element 3
 2025-03-18 19:51:36,712 - INFO - Processing sublist element python
 2025-03-18 19:51:36,712 - INFO - The result is: [1, 2, 4, 3], ['hello', 'world', 'python']
+2025-03-18 23:44:27,113 - INFO - Processing each element of the list 2
+2025-03-18 23:44:27,115 - INFO - 2 is prime
+2025-03-18 23:44:27,116 - INFO - Processing each element of the list 3
+2025-03-18 23:44:27,116 - INFO - Checking if 3 is divisible by 2
+2025-03-18 23:44:27,116 - INFO - 3 is prime
+2025-03-18 23:44:27,116 - INFO - Processing each element of the list 4
+2025-03-18 23:44:27,117 - INFO - Checking if 4 is divisible by 2
+2025-03-18 23:44:27,117 - INFO - 4 is not prime
+2025-03-18 23:44:27,117 - INFO - Processing each element of the list 5
+2025-03-18 23:44:27,117 - INFO - Checking if 5 is divisible by 2
+2025-03-18 23:44:27,117 - INFO - Checking if 5 is divisible by 3
+2025-03-18 23:44:27,118 - INFO - Checking if 5 is divisible by 4
+2025-03-18 23:44:27,118 - INFO - 5 is prime
+2025-03-18 23:44:27,118 - INFO - Processing each element of the list 6
+2025-03-18 23:44:27,118 - INFO - Checking if 6 is divisible by 2
+2025-03-18 23:44:27,118 - INFO - 6 is not prime
+2025-03-18 23:44:27,119 - INFO - Processing each element of the list 7
+2025-03-18 23:44:27,119 - INFO - Checking if 7 is divisible by 2
+2025-03-18 23:44:27,119 - INFO - Checking if 7 is divisible by 3
+2025-03-18 23:44:27,119 - INFO - Checking if 7 is divisible by 4
+2025-03-18 23:44:27,119 - INFO - Checking if 7 is divisible by 5
+2025-03-18 23:44:27,120 - INFO - Checking if 7 is divisible by 6
+2025-03-18 23:44:27,120 - INFO - 7 is prime
+2025-03-18 23:44:27,120 - INFO - Processing each element of the list 8
+2025-03-18 23:44:27,120 - INFO - Checking if 8 is divisible by 2
+2025-03-18 23:44:27,120 - INFO - 8 is not prime
+2025-03-18 23:44:27,121 - INFO - Processing each element of the list 9
+2025-03-18 23:44:27,121 - INFO - Checking if 9 is divisible by 2
+2025-03-18 23:44:27,121 - INFO - Checking if 9 is divisible by 3
+2025-03-18 23:44:27,121 - INFO - 9 is not prime
+2025-03-18 23:44:27,121 - INFO - Processing each element of the list 10
+2025-03-18 23:44:27,121 - INFO - Checking if 10 is divisible by 2
+2025-03-18 23:44:27,122 - INFO - 10 is not prime
+2025-03-18 23:44:27,122 - INFO - Processing each element of the list 11
+2025-03-18 23:44:27,122 - INFO - Checking if 11 is divisible by 2
+2025-03-18 23:44:27,122 - INFO - Checking if 11 is divisible by 3
+2025-03-18 23:44:27,122 - INFO - Checking if 11 is divisible by 4
+2025-03-18 23:44:27,123 - INFO - Checking if 11 is divisible by 5
+2025-03-18 23:44:27,123 - INFO - Checking if 11 is divisible by 6
+2025-03-18 23:44:27,123 - INFO - Checking if 11 is divisible by 7
+2025-03-18 23:44:27,123 - INFO - Checking if 11 is divisible by 8
+2025-03-18 23:44:27,123 - INFO - Checking if 11 is divisible by 9
+2025-03-18 23:44:27,124 - INFO - Checking if 11 is divisible by 10
+2025-03-18 23:44:27,124 - INFO - 11 is prime
+2025-03-18 23:44:27,124 - INFO - Processing each element of the list 12
+2025-03-18 23:44:27,124 - INFO - Checking if 12 is divisible by 2
+2025-03-18 23:44:27,124 - INFO - 12 is not prime
+2025-03-18 23:44:27,124 - INFO - Processing each element of the list 13
+2025-03-18 23:44:27,124 - INFO - Checking if 13 is divisible by 2
+2025-03-18 23:44:27,125 - INFO - Checking if 13 is divisible by 3
+2025-03-18 23:44:27,125 - INFO - Checking if 13 is divisible by 4
+2025-03-18 23:44:27,125 - INFO - Checking if 13 is divisible by 5
+2025-03-18 23:44:27,125 - INFO - Checking if 13 is divisible by 6
+2025-03-18 23:44:27,125 - INFO - Checking if 13 is divisible by 7
+2025-03-18 23:44:27,126 - INFO - Checking if 13 is divisible by 8
+2025-03-18 23:44:27,126 - INFO - Checking if 13 is divisible by 9
+2025-03-18 23:44:27,126 - INFO - Checking if 13 is divisible by 10
+2025-03-18 23:44:27,126 - INFO - Checking if 13 is divisible by 11
+2025-03-18 23:44:27,126 - INFO - Checking if 13 is divisible by 12
+2025-03-18 23:44:27,126 - INFO - 13 is prime
+2025-03-18 23:44:27,126 - INFO - Processing each element of the list 14
+2025-03-18 23:44:27,126 - INFO - Checking if 14 is divisible by 2
+2025-03-18 23:44:27,126 - INFO - 14 is not prime
+2025-03-18 23:44:27,127 - INFO - Processing each element of the list 15
+2025-03-18 23:44:27,127 - INFO - Checking if 15 is divisible by 2
+2025-03-18 23:44:27,127 - INFO - Checking if 15 is divisible by 3
+2025-03-18 23:44:27,127 - INFO - 15 is not prime
+2025-03-18 23:44:27,127 - INFO - Processing each element of the list 16
+2025-03-18 23:44:27,127 - INFO - Checking if 16 is divisible by 2
+2025-03-18 23:44:27,127 - INFO - 16 is not prime
+2025-03-18 23:44:27,128 - INFO - Processing each element of the list 17
+2025-03-18 23:44:27,128 - INFO - Checking if 17 is divisible by 2
+2025-03-18 23:44:27,128 - INFO - Checking if 17 is divisible by 3
+2025-03-18 23:44:27,128 - INFO - Checking if 17 is divisible by 4
+2025-03-18 23:44:27,128 - INFO - Checking if 17 is divisible by 5
+2025-03-18 23:44:27,128 - INFO - Checking if 17 is divisible by 6
+2025-03-18 23:44:27,128 - INFO - Checking if 17 is divisible by 7
+2025-03-18 23:44:27,128 - INFO - Checking if 17 is divisible by 8
+2025-03-18 23:44:27,128 - INFO - Checking if 17 is divisible by 9
+2025-03-18 23:44:27,129 - INFO - Checking if 17 is divisible by 10
+2025-03-18 23:44:27,129 - INFO - Checking if 17 is divisible by 11
+2025-03-18 23:44:27,129 - INFO - Checking if 17 is divisible by 12
+2025-03-18 23:44:27,129 - INFO - Checking if 17 is divisible by 13
+2025-03-18 23:44:27,129 - INFO - Checking if 17 is divisible by 14
+2025-03-18 23:44:27,129 - INFO - Checking if 17 is divisible by 15
+2025-03-18 23:44:27,129 - INFO - Checking if 17 is divisible by 16
+2025-03-18 23:44:27,129 - INFO - 17 is prime
+2025-03-18 23:44:27,129 - INFO - Processing each element of the list 18
+2025-03-18 23:44:27,130 - INFO - Checking if 18 is divisible by 2
+2025-03-18 23:44:27,130 - INFO - 18 is not prime
+2025-03-18 23:44:27,130 - INFO - Processing each element of the list 19
+2025-03-18 23:44:27,130 - INFO - Checking if 19 is divisible by 2
+2025-03-18 23:44:27,130 - INFO - Checking if 19 is divisible by 3
+2025-03-18 23:44:27,130 - INFO - Checking if 19 is divisible by 4
+2025-03-18 23:44:27,130 - INFO - Checking if 19 is divisible by 5
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 6
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 7
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 8
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 9
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 10
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 11
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 12
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 13
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 14
+2025-03-18 23:44:27,131 - INFO - Checking if 19 is divisible by 15
+2025-03-18 23:44:27,132 - INFO - Checking if 19 is divisible by 16
+2025-03-18 23:44:27,132 - INFO - Checking if 19 is divisible by 17
+2025-03-18 23:44:27,132 - INFO - Checking if 19 is divisible by 18
+2025-03-18 23:44:27,132 - INFO - 19 is prime
+2025-03-18 23:44:27,132 - INFO - Processing each element of the list 20
+2025-03-18 23:44:27,132 - INFO - Checking if 20 is divisible by 2
+2025-03-18 23:44:27,132 - INFO - 20 is not prime
+2025-03-18 23:44:27,132 - INFO - The result are: [2, 3, 5, 7, 11, 13, 17, 19], [4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20]
+2025-03-18 23:45:59,638 - INFO - Processing each element of the list 2
+2025-03-18 23:45:59,639 - INFO - 2 is prime
+2025-03-18 23:45:59,639 - INFO - Processing each element of the list 3
+2025-03-18 23:45:59,639 - INFO - Checking if 3 is divisible by 2
+2025-03-18 23:45:59,640 - INFO - 3 is prime
+2025-03-18 23:45:59,640 - INFO - Processing each element of the list 4
+2025-03-18 23:45:59,640 - INFO - Checking if 4 is divisible by 2
+2025-03-18 23:45:59,640 - INFO - 4 is not prime
+2025-03-18 23:45:59,641 - INFO - Processing each element of the list 5
+2025-03-18 23:45:59,641 - INFO - Checking if 5 is divisible by 2
+2025-03-18 23:45:59,641 - INFO - Checking if 5 is divisible by 3
+2025-03-18 23:45:59,641 - INFO - Checking if 5 is divisible by 4
+2025-03-18 23:45:59,641 - INFO - 5 is prime
+2025-03-18 23:45:59,642 - INFO - Processing each element of the list 6
+2025-03-18 23:45:59,642 - INFO - Checking if 6 is divisible by 2
+2025-03-18 23:45:59,642 - INFO - 6 is not prime
+2025-03-18 23:45:59,642 - INFO - Processing each element of the list 7
+2025-03-18 23:45:59,642 - INFO - Checking if 7 is divisible by 2
+2025-03-18 23:45:59,642 - INFO - Checking if 7 is divisible by 3
+2025-03-18 23:45:59,643 - INFO - Checking if 7 is divisible by 4
+2025-03-18 23:45:59,643 - INFO - Checking if 7 is divisible by 5
+2025-03-18 23:45:59,643 - INFO - Checking if 7 is divisible by 6
+2025-03-18 23:45:59,643 - INFO - 7 is prime
+2025-03-18 23:45:59,643 - INFO - Processing each element of the list 8
+2025-03-18 23:45:59,643 - INFO - Checking if 8 is divisible by 2
+2025-03-18 23:45:59,644 - INFO - 8 is not prime
+2025-03-18 23:45:59,644 - INFO - Processing each element of the list 9
+2025-03-18 23:45:59,644 - INFO - Checking if 9 is divisible by 2
+2025-03-18 23:45:59,644 - INFO - Checking if 9 is divisible by 3
+2025-03-18 23:45:59,644 - INFO - 9 is not prime
+2025-03-18 23:45:59,645 - INFO - Processing each element of the list 10
+2025-03-18 23:45:59,645 - INFO - Checking if 10 is divisible by 2
+2025-03-18 23:45:59,645 - INFO - 10 is not prime
+2025-03-18 23:45:59,645 - INFO - Processing each element of the list 11
+2025-03-18 23:45:59,645 - INFO - Checking if 11 is divisible by 2
+2025-03-18 23:45:59,645 - INFO - Checking if 11 is divisible by 3
+2025-03-18 23:45:59,646 - INFO - Checking if 11 is divisible by 4
+2025-03-18 23:45:59,646 - INFO - Checking if 11 is divisible by 5
+2025-03-18 23:45:59,646 - INFO - Checking if 11 is divisible by 6
+2025-03-18 23:45:59,646 - INFO - Checking if 11 is divisible by 7
+2025-03-18 23:45:59,646 - INFO - Checking if 11 is divisible by 8
+2025-03-18 23:45:59,647 - INFO - Checking if 11 is divisible by 9
+2025-03-18 23:45:59,647 - INFO - Checking if 11 is divisible by 10
+2025-03-18 23:45:59,647 - INFO - 11 is prime
+2025-03-18 23:45:59,647 - INFO - Processing each element of the list 12
+2025-03-18 23:45:59,647 - INFO - Checking if 12 is divisible by 2
+2025-03-18 23:45:59,648 - INFO - 12 is not prime
+2025-03-18 23:45:59,648 - INFO - Processing each element of the list 13
+2025-03-18 23:45:59,648 - INFO - Checking if 13 is divisible by 2
+2025-03-18 23:45:59,648 - INFO - Checking if 13 is divisible by 3
+2025-03-18 23:45:59,648 - INFO - Checking if 13 is divisible by 4
+2025-03-18 23:45:59,648 - INFO - Checking if 13 is divisible by 5
+2025-03-18 23:45:59,649 - INFO - Checking if 13 is divisible by 6
+2025-03-18 23:45:59,649 - INFO - Checking if 13 is divisible by 7
+2025-03-18 23:45:59,649 - INFO - Checking if 13 is divisible by 8
+2025-03-18 23:45:59,649 - INFO - Checking if 13 is divisible by 9
+2025-03-18 23:45:59,649 - INFO - Checking if 13 is divisible by 10
+2025-03-18 23:45:59,649 - INFO - Checking if 13 is divisible by 11
+2025-03-18 23:45:59,650 - INFO - Checking if 13 is divisible by 12
+2025-03-18 23:45:59,650 - INFO - 13 is prime
+2025-03-18 23:45:59,650 - INFO - Processing each element of the list 14
+2025-03-18 23:45:59,650 - INFO - Checking if 14 is divisible by 2
+2025-03-18 23:45:59,650 - INFO - 14 is not prime
+2025-03-18 23:45:59,651 - INFO - Processing each element of the list 15
+2025-03-18 23:45:59,651 - INFO - Checking if 15 is divisible by 2
+2025-03-18 23:45:59,651 - INFO - Checking if 15 is divisible by 3
+2025-03-18 23:45:59,651 - INFO - 15 is not prime
+2025-03-18 23:45:59,651 - INFO - Processing each element of the list 16
+2025-03-18 23:45:59,652 - INFO - Checking if 16 is divisible by 2
+2025-03-18 23:45:59,652 - INFO - 16 is not prime
+2025-03-18 23:45:59,652 - INFO - Processing each element of the list 17
+2025-03-18 23:45:59,652 - INFO - Checking if 17 is divisible by 2
+2025-03-18 23:45:59,652 - INFO - Checking if 17 is divisible by 3
+2025-03-18 23:45:59,653 - INFO - Checking if 17 is divisible by 4
+2025-03-18 23:45:59,653 - INFO - Checking if 17 is divisible by 5
+2025-03-18 23:45:59,653 - INFO - Checking if 17 is divisible by 6
+2025-03-18 23:45:59,653 - INFO - Checking if 17 is divisible by 7
+2025-03-18 23:45:59,653 - INFO - Checking if 17 is divisible by 8
+2025-03-18 23:45:59,653 - INFO - Checking if 17 is divisible by 9
+2025-03-18 23:45:59,654 - INFO - Checking if 17 is divisible by 10
+2025-03-18 23:45:59,654 - INFO - Checking if 17 is divisible by 11
+2025-03-18 23:45:59,654 - INFO - Checking if 17 is divisible by 12
+2025-03-18 23:45:59,654 - INFO - Checking if 17 is divisible by 13
+2025-03-18 23:45:59,654 - INFO - Checking if 17 is divisible by 14
+2025-03-18 23:45:59,655 - INFO - Checking if 17 is divisible by 15
+2025-03-18 23:45:59,655 - INFO - Checking if 17 is divisible by 16
+2025-03-18 23:45:59,655 - INFO - 17 is prime
+2025-03-18 23:45:59,655 - INFO - Processing each element of the list 18
+2025-03-18 23:45:59,655 - INFO - Checking if 18 is divisible by 2
+2025-03-18 23:45:59,655 - INFO - 18 is not prime
+2025-03-18 23:45:59,656 - INFO - Processing each element of the list 19
+2025-03-18 23:45:59,656 - INFO - Checking if 19 is divisible by 2
+2025-03-18 23:45:59,656 - INFO - Checking if 19 is divisible by 3
+2025-03-18 23:45:59,657 - INFO - Checking if 19 is divisible by 4
+2025-03-18 23:45:59,657 - INFO - Checking if 19 is divisible by 5
+2025-03-18 23:45:59,658 - INFO - Checking if 19 is divisible by 6
+2025-03-18 23:45:59,658 - INFO - Checking if 19 is divisible by 7
+2025-03-18 23:45:59,658 - INFO - Checking if 19 is divisible by 8
+2025-03-18 23:45:59,658 - INFO - Checking if 19 is divisible by 9
+2025-03-18 23:45:59,658 - INFO - Checking if 19 is divisible by 10
+2025-03-18 23:45:59,658 - INFO - Checking if 19 is divisible by 11
+2025-03-18 23:45:59,659 - INFO - Checking if 19 is divisible by 12
+2025-03-18 23:45:59,659 - INFO - Checking if 19 is divisible by 13
+2025-03-18 23:45:59,659 - INFO - Checking if 19 is divisible by 14
+2025-03-18 23:45:59,663 - INFO - Checking if 19 is divisible by 15
+2025-03-18 23:45:59,663 - INFO - Checking if 19 is divisible by 16
+2025-03-18 23:45:59,663 - INFO - Checking if 19 is divisible by 17
+2025-03-18 23:45:59,663 - INFO - Checking if 19 is divisible by 18
+2025-03-18 23:45:59,664 - INFO - 19 is prime
+2025-03-18 23:45:59,664 - INFO - Processing each element of the list 20
+2025-03-18 23:45:59,664 - INFO - Checking if 20 is divisible by 2
+2025-03-18 23:45:59,664 - INFO - 20 is not prime
+2025-03-18 23:45:59,665 - INFO - The result are: Prime no. >> [2, 3, 5, 7, 11, 13, 17, 19], Non Prime no. >> [4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20]
