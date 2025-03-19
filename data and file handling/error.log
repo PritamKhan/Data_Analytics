@@ -1,0 +1,7 @@
+2025-03-19 18:05:41,816 - INFO - This is my info msg
+2025-03-19 18:05:41,817 - ERROR - This is my error msg
+2025-03-19 18:05:41,817 - WARNING - This is my warning msg
+ERROR:root:Division by zero error occurred
+
+ERROR:root:This is my error msg
+ERROR:root:File not found

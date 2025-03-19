@@ -2,3 +2,13 @@ INFO:root:This is my narmal information about the software
 WARNING:root:There can be some empty list here
 ERROR:root:Some error has happen
 CRITICAL:root:The software has stopped running
+2025-03-19 18:27:40,311 - INFO - Processing each element of the list 1
+2025-03-19 18:27:40,312 - INFO - Processing each element of the list hello
+2025-03-19 18:27:40,312 - INFO - Processing each element of the list [2, 'world']
+2025-03-19 18:27:40,312 - INFO - Processing sublist element 2
+2025-03-19 18:27:40,313 - INFO - Processing sublist element world
+2025-03-19 18:27:40,313 - INFO - Processing each element of the list 4
+2025-03-19 18:27:40,313 - INFO - Processing each element of the list [3, 'python']
+2025-03-19 18:27:40,313 - INFO - Processing sublist element 3
+2025-03-19 18:27:40,314 - INFO - Processing sublist element python
+2025-03-19 18:27:40,314 - INFO - The result is: [1, 2, 4, 3], ['hello', 'world', 'python']
